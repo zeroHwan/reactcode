@@ -1,0 +1,13 @@
+	var menu = { "employees1" : [ 
+		{"name" : "유재석", "price" : "8,000", "job":"백수1" },
+		{"name" : "송종국", "price" : "8,000", "job":"백수2" },
+		{"name" : "강호동", "price" : "9,000", "job":"백수3" }],		
+		"employees2" : [ 
+		{"name" : "김영준", "price" : "8,000", "job":"백수4" },
+		{"name" : "정준일", "price" : "8,000", "job":"백수5" },
+		{"name" : "최안규", "price" : "8,000", "job":"백수6" }],
+		"employees3" : [ 
+		{"name" : "이병헌", "price" : "8,000", "job":"백수7" },
+		{"name" : "박근혜", "price" : "8,000", "job":"백수8" },
+		{"name" : "김민정", "price" : "8,000", "job":"백수9" }]
+		};
